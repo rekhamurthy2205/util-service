@@ -1,0 +1,12 @@
+{
+  "development": {
+    "user": "root",
+    "password" : "root",
+    "database": "task",
+    "host": "127.0.0.1",
+    "logging": false,
+    "port": 8001,
+    "dialect": "mysql"
+  }
+}
+
